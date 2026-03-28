@@ -83,6 +83,7 @@ body {
 	width: 100%;
 }
 #task-list li {
+	color: white;
 	display: flex;
 	align-items: center;
 	gap: 10px;
@@ -213,6 +214,7 @@ body {
 	#task-list li {
 		font-size: 1rem;
 		padding: 6px;
+		color: white;
 	}
 
 	.task-buttons button {
